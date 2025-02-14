@@ -1,0 +1,52 @@
+footer {
+    margin-top: 25px;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo {
+    align-items: center;
+    width: 40px;
+    height: auto;
+}
+.banner {
+    color: white;
+}
+.sections {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.chart {
+    table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th, td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: center;
+      }
+      th {
+        background-color: #f2f2f2;
+      }
+}
+.image-left {
+    float: left;
+    margin-right: 50px;
+    width: 200px;
+    border-radius: 15%;
+}
+.image-right {
+    float: right;
+    margin-left: 50px;
+    width: 200px;
+    border-radius: 15%;
+  }
+.card-plus {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
